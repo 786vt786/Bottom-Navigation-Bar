@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Roommate/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22592592592592592" />
+        <entry key="..\:/Roommate/app/src/main/res/drawable/ic_chat.xml" value="0.22592592592592592" />
+        <entry key="..\:/Roommate/app/src/main/res/drawable/ic_explore.xml" value="0.22592592592592592" />
+        <entry key="..\:/Roommate/app/src/main/res/drawable/ic_notification.xml" value="0.22592592592592592" />
+        <entry key="..\:/Roommate/app/src/main/res/drawable/ic_suitcase_svgrepo_com.xml" value="0.21666666666666667" />
+        <entry key="..\:/Roommate/app/src/main/res/drawable/ic_user.xml" value="0.22592592592592592" />
+        <entry key="..\:/Roommate/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Roommate/app/src/main/res/layout/fragment_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Roommate/app/src/main/res/layout/fragment_explore.xml" value="0.25416666666666665" />
+        <entry key="..\:/Roommate/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Roommate/app/src/main/res/layout/fragment_myTrip.xml" value="0.25416666666666665" />
+        <entry key="..\:/Roommate/app/src/main/res/layout/fragment_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/Roommate/app/src/main/res/layout/fragment_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Roommate/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22592592592592592" />
+        <entry key="..\:/Roommate/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22592592592592592" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
